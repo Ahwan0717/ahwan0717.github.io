@@ -1,0 +1,8 @@
+AuthUserFile /home/frybzr5a81c5/public_html/hw5/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Baruch Course CIS 3630, Professor Johnson"
+AuthType Basic
+require valid-user
+
+
+ 
